@@ -20,6 +20,11 @@ A simple, clean, and responsive To-Do List application that helps users manage d
 - Save tasks after browser refresh
 - Responsive user interface
 
+## Screenshot
+**Home Page**
+
+![Home](https://github.com/mohamud007/CodeOrbit_To-Do-App/blob/main/Screenshot%202026-10-24%20085440.png)
+
 ## Setup Instructions
 
 1. Clone this repository:
