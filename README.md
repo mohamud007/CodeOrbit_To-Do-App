@@ -57,7 +57,7 @@ CodeOrbit_Todo-List-App/
 
 ## GitHub Repository
 
-**Repository URL:** `https://github.com/mohamudsk007/CodeOrbit_Todo-List-App`
+**Repository URL:** `https://github.com/mohamudsk007/CodeOrbit_To-Do-App`
 
 ## Learning Outcomes
 
