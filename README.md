@@ -59,7 +59,7 @@ CodeOrbit_Todo-List-App/
 
 **Repository URL:** Replace this line with your actual GitHub repository link.
 
-Example format: `https://github.com/YOUR_USERNAME/CodeOrbit_Todo-List-App`
+Example format: `https://github.com/mohamudsk007/CodeOrbit_Todo-List-App`
 
 ## Learning Outcomes
 
